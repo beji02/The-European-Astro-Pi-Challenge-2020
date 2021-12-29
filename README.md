@@ -1,6 +1,4 @@
-# The-European-Astro-Pi-Challenge-2020
-
-"DualCore" (2 members)
+# "DualCore" (2 members)
 
 Within European Space Agency's “Astro Pi Challenge” we
 programmed a Raspberry Pi computer to take infrared photos
